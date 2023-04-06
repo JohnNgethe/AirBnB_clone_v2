@@ -9,7 +9,7 @@ import os
 from datetime import datetime
 
 env.user = 'ubuntu'
-env.hosts = ['44.210.77.98', '44.211.31.180']
+env.hosts = ['54.164.148.46', '3.84.158.134']
 
 
 def do_pack():
